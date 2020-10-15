@@ -6,3 +6,13 @@ Green: #00B172
 White: #FFF
 
 */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:700|Roboto:100,300,700');
+
+.green-zone {
+   background-color: #00B172;
+}
+
+#music{
+    background-image: url("\\wsl$\Ubuntu\home\leoocm\Desktop\Ironhack\WebDev\Module1\lab-css-spotify-clone\images\landing-jpg");
+    background-size: cover;
+}
